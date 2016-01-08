@@ -1,3 +1,4 @@
 # planets
-Practice repo for SC Pythos course
+
+Collaboration practice repo for SC Pythos course
 Collaborating with thornstad
